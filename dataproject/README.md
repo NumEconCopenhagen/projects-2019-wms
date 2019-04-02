@@ -1,5 +1,5 @@
-# Dataproject
-## Created by: Mads-Emil Granzow, Waldemar Shuppli and Sofie Juel
+### Dataproject
+##### Created by: Mads-Emil Granzow, Waldemar Shuppli and Sofie Juel
 
 This project examines daily close values and returns by all stocks on IEX in the period 2015-01-02 - 2019-01-02. Data is obtained by using an API for IEX to retrieve data on daily close values as well as sector on each of the individual stocks. 
 
