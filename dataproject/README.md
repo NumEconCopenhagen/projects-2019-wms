@@ -1,5 +1,5 @@
 ### Dataproject
-##### Created by: Mads-Emil Granzow, Waldemar Shuppli and Sofie Juel
+##### Created by: Mads-Emil Granzow (KFC147), Waldemar Schuppli (LXV175) and Sofie Juel (GHD466)
 
 This project examines historical daily price data for stocks in the US in the period 2015-01-02 - 2019-01-02. Data is obtained by using an API for IEX to retrieve data on daily close values as well as sector on each of the individual stocks. 
 
