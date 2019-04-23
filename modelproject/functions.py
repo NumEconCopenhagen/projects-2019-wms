@@ -19,7 +19,7 @@ def opt_bid_2_price(valuation):
 
 
 def opt_bid_k_price(k, a, n, valuation):
-    return round(a + ((n+1-k)/n)*(valuation-a), 3)
+    return round(a + ((n-1-k+1)/n+1-1)*(valuation-a), 3)
 
 #Expected revenue (ex ante)
 #Given the revenue equivalence theorem the expected revenue is the same for all auction formats
