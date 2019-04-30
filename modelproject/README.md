@@ -5,4 +5,4 @@ This project introduces and solves the classic Cournot model from industrial org
 - We describe the general theoretical frame
 - We solve the simple version of the model numerically
 - We compare and contrast to the analytical solution
-- Lastly, we extend the model to the general setting...
+- Lastly, we extend the model to the general setting and create an interactive solution to see what happens for different parameterizations
