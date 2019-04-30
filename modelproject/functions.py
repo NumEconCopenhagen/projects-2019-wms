@@ -39,7 +39,7 @@ def help_br(q, c, a, b): #defining a help function that finds where the Best res
     return [q[0]-best_response(q[1], c[0], a, b),q[1]-best_response(q[0], c[1], a, b)]
 
 
-def production_eq(c, initial_guess, a, b): #Equilibrium function 
+def production_eq(c, initial_guess, a, b): #Equilibrium function - solves fixed points in equilibrium
     from scipy import optimize
     Q = optimize.fsolve(lambda q: help_br(q, c, a, b), initial_guess)
     return Q
