@@ -53,3 +53,38 @@ def summary(c, a, b, initial_guess):
                    '\n The equilibrium price per unit becomes ' + str("{:.0f}".format(price(q1, q2, a, b))) +
                   "\n Firm 1's profit will be " + str("{:.0f}".format(profit(q1, q2, a, b, c[0]))) + " while firm 2's profit will be " + str("{:.0f}".format(profit(q1, q2, a, b, c[1]))))
     return output
+
+################################################################################################################################################################################################## Analytical solutions ##################################################################################################################################################################################################
+
+def price_eq(a, n, c): #Returns equilibirum price
+    
+    price = max((a-sum(c))/(1+n), 0)
+    return price
+
+
+def qi_eq(a, b, n, c, i): #Returns equilibrium quantity for firm i
+    
+    q_i = max((1/b)*((a-n*c[i]+(sum(c)-c[i]))/(1+n)), 0)
+    if q_i < 1: #To avoid solutions with low quantities
+        q_i = 0
+        
+    return q_i
+
+
+def Q_eq(a, b, n, c): #Returns industry quantity
+    
+    #Q_alt = (n*a-sum(c))/(b*(1+n))
+    Q = []
+    for i in range(0, n+1, 1):
+        Q.append(qi_eq(a, b, n, c, i))
+        
+    return sum(Q)
+
+def profit_eq(a, b, n, c, i): #Returns profit for firm i
+    
+    if qi_eq(a, b, n, c, i) == 0: #Profits set to zero if no production
+        profit = 0
+    else:
+        profit = max((1/b)*(((a-n*c[i]+(sum(c)-c[i]))/(1+n))**2), 0)
+        
+    return profit
