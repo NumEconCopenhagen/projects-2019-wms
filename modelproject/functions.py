@@ -1,3 +1,6 @@
+def rnd(a): # Function to print floats rounded as strings
+    return str("{:.0f}".format(a))
+
 
 
 def price(q1, q2, a, b): #Overall inverse demand function as a function of all quantities and the relevant parameters
@@ -88,3 +91,58 @@ def profit_eq(a, b, n, c, i): #Returns profit for firm i
         profit = max((1/b)*(((a-n*c[i]+(sum(c)-c[i]))/(1+n))**2), 0)
         
     return profit
+
+
+
+def sim_general(a, b, N, c_low, c_high): # N is the max number of firms. c_low and c_high denotes to range of the uniformly distributed costs
+    #Dependencies
+    import numpy as np
+    import random
+    import matplotlib.pyplot as plt
+    
+    n = random.randint(2, N) #Number of firms - can be from monopoly to perfect competition depending on the draw (and N)
+    
+    #Assymmetric costs for each firm:
+    c = []
+    for i in range(0, n+1, 1):
+        c_i = random.uniform(c_low, c_high)
+        c.append(c_i)
+    
+    price = price_eq(a, n, c) #equilibrium price
+    
+    #individual quantities and profits
+    qi_list = []
+    profiti_list = []
+    for i in range(0, n+1, 1):
+        qi_list.append(qi_eq(a, b, n, c, i))
+        profiti_list.append(profit_eq(a, b, n, c, i))
+   
+    
+    #Industry quantity
+    Q = Q_eq(a, b, n, c)
+
+    
+    #Mark-ups - the multiplier on marginal costs
+    markup_i = []
+    for i in range(0, n+1, 1):
+        markup_i.append(price/c[i])
+    
+    
+    
+    #Plots of each firm's profit
+    plt.bar(x=range(0, n+1, 1), height=profiti_list)
+    plt.xlabel("Firm i")
+    plt.ylabel('Profit for firm i')
+    plt.title("Profits for each firm")
+    
+
+    #Text summuary
+    output = print('\n The industry consists of ' + rnd(n) + ' competiting firms.' + 
+                  '\n Industry quantity produced is ' + rnd(Q) + ' with an equilibrium price of ' + rnd(price) + 
+                   '\n The average profits are ' + rnd(np.array(profiti_list).mean()) + ' with an average mark-up over marginal costs of ' + 
+                   str("{:.2f}".format(np.array(markup_i).mean())) +
+                   '\n'
+                   
+                  )
+    
+    return output
