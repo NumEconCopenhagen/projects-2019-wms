@@ -17,28 +17,28 @@ Sofie Juel - GDH466 - Peer feedback
 
 Data analysis groups:
 
-    LEG -  https://github.com/NumEconCopenhagen/projects-2019-leg/issues/13
-    Added later as it must have been removed or wrongly uploaded in the first attempt.
+    	LEG -  https://github.com/NumEconCopenhagen/projects-2019-leg/issues/13
+   	Added later as it must have been removed or wrongly uploaded in the first attempt.
     
 	Nikita Jonas Allan - https://github.com/NumEconCopenhagen/projects-2019-nikita-jonas-allan/issues/2
 
 Model analysis groups:
 
-    DSD - https://github.com/NumEconCopenhagen/projects-2019-dsd/issues/6
+    	DSD - https://github.com/NumEconCopenhagen/projects-2019-dsd/issues/6
     
-    JL - https://github.com/NumEconCopenhagen/projects-2019-jl/issues/5
+    	JL - https://github.com/NumEconCopenhagen/projects-2019-jl/issues/5
 
  
 Waldemar Schuppli - LXV175 - Peer feedback
 
 Data analysis groups:
 
-    asdf - 
+    	asdf - https://github.com/NumEconCopenhagen/projects-2019-asdf/issues/3
     
-	AL - 
+	AL - https://github.com/NumEconCopenhagen/projects-2019-al/issues/2
 
 Model analysis groups:
 
-    TBA - 
+    	TBA - https://github.com/NumEconCopenhagen/projects-2019-tba/issues/8
     
-    Tobias_Jacob_Sandru -
+    	Tobias_Jacob_Sandru - https://github.com/NumEconCopenhagen/projects-2019-tobias_jacob_sandru/issues/11
