@@ -1,5 +1,5 @@
 ### Modelproject
-##### Created by: Mads-Emil Granzow (KFC147), Waldemar Schuppli (LXV175) and Sofie Juel (GHD466)
+##### Created by: Mads-Emil Granzow (KFC147), Waldemar Schuppli (LXV175) and Sofie Juel (GDH466)
 
 This project introduces and solves the classic Cournot model from industrial organization, where firms compete strategically by choosing quantities produced.
 
