@@ -1,0 +1,12 @@
+Mads-Emil Granzow - KFC147 - Peer feedback
+Data analysis groups:
+
+	Ourgroupname - https://github.com/NumEconCopenhagen/projects-2019-ourgroupname/issues/2
+
+	DSD - https://github.com/NumEconCopenhagen/projects-2019-dsd/issues/3
+
+Model analysis groups:
+
+	MCB - https://github.com/NumEconCopenhagen/projects-2019-mcb/issues/8
+
+	Zuga & Tugas - https://github.com/NumEconCopenhagen/projects-2019-zuca-tugas/issues/8
