@@ -1,4 +1,5 @@
 Mads-Emil Granzow - KFC147 - Peer feedback
+
 Data analysis groups:
 
 	Ourgroupname - https://github.com/NumEconCopenhagen/projects-2019-ourgroupname/issues/2
@@ -10,3 +11,34 @@ Model analysis groups:
 	MCB - https://github.com/NumEconCopenhagen/projects-2019-mcb/issues/8
 
 	Zuga & Tugas - https://github.com/NumEconCopenhagen/projects-2019-zuca-tugas/issues/8
+    
+ 
+Sofie Juel - GDH466 - Peer feedback
+
+Data analysis groups:
+
+    LEG -  https://github.com/NumEconCopenhagen/projects-2019-leg/issues/13
+    Added later as it must have been removed or wrongly uploaded in the first attempt.
+    
+	Nikita Jonas Allan - https://github.com/NumEconCopenhagen/projects-2019-nikita-jonas-allan/issues/2
+
+Model analysis groups:
+
+    DSD - https://github.com/NumEconCopenhagen/projects-2019-dsd/issues/6
+    
+    JL - https://github.com/NumEconCopenhagen/projects-2019-jl/issues/5
+
+ 
+Waldemar Schuppli - LXV175 - Peer feedback
+
+Data analysis groups:
+
+    asdf - 
+    
+	AL - 
+
+Model analysis groups:
+
+    TBA - 
+    
+    Tobias_Jacob_Sandru -
