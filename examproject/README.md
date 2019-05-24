@@ -16,11 +16,11 @@ After solving the model we find that for some levels of human capital the worker
 
 The second problem consists of solving an AS-AD model known from macroeconomics. 
 First the equilibrium values of output and inflation are calcutated. Next, we see how the economy evoles after experiencing a demand shock. 
-Lastly the model is simulated for 1000 periods and different statistics are calculated and evaluated.
+Lastly the model is simulated for 1000 periods and different statistics are calculated and evaluated. We attempt to numerically optimize certain parameters to fit the empirical data and we see some short-comings that most likely stem from AS-AD framework.
 
 The third problem consists on solving a exchange economy problem with N consumers and three goods. 
 First, the distribution of the budgets shares for each good acress agents is examined and the excess demand function for each good is illustrated.
-Next, the Walras equlibrium prices are found (where excess demands are approximately zero)  in the model and illstrated. 
+Next, the Walras equlibrium prices are found (where excess demands are approximately zero) in the model and illstrated. 
 
 
 
