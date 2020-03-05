@@ -1,23 +1,23 @@
 ;date;iexId;isEnabled;name;symbol;type;sector
-0;2019-03-18;2;True;Agilent Technologies Inc.;A;cs;Healthcare
-1;2019-03-18;12042;True;Alcoa Corporation;AA;cs;Basic Materials
-2;2019-03-18;14924;True;Perth Mint Physical Gold;AAAU;N/A;
-3;2019-03-18;7653;True;Altaba Inc.;AABA;cs;Financial Services
+0;2019-03-18;2;True:A.I Technologies Inc.;A;cs;Healthcare
+1;2019-03-18;12042;True;Alcoa Corporation;AA;cs;Premium Materials
+2;2019-03-18;14924;True;Perth Mint Physical Gold;AAAU;True;
+3;2019-03-18;7653;True;Altaba Inc.;cs;Financial Services
 4;2019-03-18;9169;True;AAC Holdings Inc.;AAC;cs;Healthcare
-5;2019-03-18;5;True;AdvisorShares Dorsey Wright ADR;AADR;et;
-6;2019-03-18;8148;True;American Airlines Group Inc.;AAL;cs;Industrials
-7;2019-03-18;7760;True;Altisource Asset Management Corp Com;AAMC;cs;Financial Services
-8;2019-03-18;7;True;Atlantic American Corporation;AAME;cs;Financial Services
-9;2019-03-18;8;True;Aaron's Inc.;AAN;cs;Industrials
-10;2019-03-18;7790;True;Applied Optoelectronics Inc.;AAOI;cs;Technology
-11;2019-03-18;9;True;AAON Inc.;AAON;cs;Basic Materials
-12;2019-03-18;10;True;Advance Auto Parts Inc W/I;AAP;cs;Consumer Cyclical
-13;2019-03-18;11;True;Apple Inc.;AAPL;cs;Technology
-14;2019-03-18;12;True;American Assets Trust Inc.;AAT;cs;Real Estate
-15;2019-03-18;13;True;Almaden Minerals Ltd.;AAU;cs;Basic Materials
-16;2019-03-18;15;True;Atlas Air Worldwide Holdings;AAWW;cs;Industrials
-17;2019-03-18;16;True;iShares MSCI All Country Asia ex Japan Index Fund;AAXJ;et;
-18;2019-03-18;6667;True;Axon Enterprise Inc.;AAXN;cs;Industrials
+5;2019-03-18;5;True;self manage portfolios ;cs account owner decision;
+6;2019-03-18;8148;True;American Airlines Group;AL;cs;Industrials
+7;2019-03-18;7760;True;Asset Management Corp Com;cs;Financial Services
+8;2019-03-18;7;True;Atlantic American Corporation;cs;Financial Services
+9;2019-03-18;8;True;Aaron's ;cs;Industrials
+10;2019-03-18;7790;True; Applied Optoelectronics;cs;Technology Investments 
+11;2019-03-18;9;True;All kind of Globol Banks ;cs;Premum Materials
+12;2019-03-18;10;True;Advance Auto Parts;cs;Consumer profeting 
+13;2019-03-18;11;True;Apple Inc;cs;Technology
+14;2019-03-18;12;True;American Assets Trust Gov.;cs;Real Estate & Securities 
+15;2019-03-18;13;True;Minerals ;cs;premium best Materials
+16;2019-03-18;15;True;Worldwide Holdings;cs;Industry 
+17;2019-03-18;16;True;iShares Gold & silver All continents, Asia , Japan Index Fund
+18;2019-03-18;6667;True;Enterprise ;cs;Industry 
 19;2019-03-18;17;True;AllianceBernstein Holding L.P. Units;AB;cs;Financial Services
 20;2019-03-18;19;True;ABB Ltd;ABB;cs;Industrials
 21;2019-03-18;20;True;AbbVie Inc.;ABBV;cs;Healthcare
@@ -8409,7 +8409,7 @@
 8407;2019-03-18;15426;True;Western Asset Short Duration Income ETF;WINC;N/A;
 8408;2019-03-18;9970;True;Wingstop Inc.;WING;cs;Consumer Cyclical
 8409;2019-03-18;10756;True;Wins Finance Holdings Inc.;WINS;cs;Financial Services
-8410;2019-03-18;7478;True;SPDR FTSE International Government Inflation-Protected Bond;WIP;et;
+8410;2019-03-18;7478;True;SPDR FTSE International Government Inflation-Protected Bond;WIP
 8411;2019-03-18;7479;True;Encore Wire Corporation;WIRE;cs;Technology
 8412;2019-03-18;14443;True;Summit Wireless Technologies Inc.;WISA;cs;Technology
 8413;2019-03-18;7480;True;Wipro Limited;WIT;cs;Technology
@@ -8559,9 +8559,9 @@
 8557;2019-03-18;7601;True;SPDR Select Sector Fund - Health Care;XLV;et;
 8558;2019-03-18;7602;True;SPDR Select Sector Fund - Consumer Discretionary;XLY;et;
 8559;2019-03-18;7603;True;SPDR S&P Metals & Mining;XME;et;
-8560;2019-03-18;7604;True;Invesco S&P MidCap Low Volatility;XMLV;N/A;
-8561;2019-03-18;7605;True;VanEck Vectors CEF Municipal Income;XMPT;et;
-8562;2019-03-18;12372;True;WisdomTree Global ex-Mexico Equity Fund;XMX;N/A;
+8560;2019-03-18;7604;True;Invesco S&P MidCap Low Volatility;XML
+8561;2019-03-18;7605;True;VanEck Vectors CEF Municipal Income;XMP
+8562;2019-03-18;12372;True;WisdomTree Global ex-Mexico Equity Fund;XMX
 8563;2019-03-18;8112;True;Xencor Inc.;XNCR;cs;Healthcare
 8564;2019-03-18;7606;True;Xunlei Limited;XNET;cs;Technology
 8565;2019-03-18;4591;True;SPDR NYSE Technology;XNTK;et;
@@ -8570,38 +8570,38 @@
 8568;2019-03-18;7610;True;XOMA Corporation;XOMA;cs;Healthcare
 8569;2019-03-18;7715;True;Intrexon Corporation;XON;cs;Healthcare
 8570;2019-03-18;7611;True;The ExOne Company;XONE;cs;Industrials
-8571;2019-03-18;7613;True;SPDR S&P Oil & Gas Explor & Product;XOP;et;
+8571;2019-03-18;7613;True;SPDR S&P Oil & Gas Explor & Product;X
 8572;2019-03-18;12147;True;Xperi Corporation;XPER;cs;Technology
-8573;2019-03-18;7616;True;SPDR S&P Pharmaceuticals;XPH;et;
-8574;2019-03-18;7617;True;Solitario Zinc Corp.;XPL;cs;Basic Materials
+8573;2019-03-18;7616;True;SPDR S&P Pharmaceuticals;XPH
+8574;2019-03-18;7617;True;Solitario Zinc Corp.;XPL;Materials
 8575;2019-03-18;7619;True;XPO Logistics Inc.;XPO;cs;Industrials
-8576;2019-03-18;7620;True;ProShares Ultra FTSE China 50;XPP;et;
-8577;2019-03-18;7622;True;DENTSPLY SIRONA Inc.;XRAY;cs;Healthcare
-8578;2019-03-18;12810;True;China Rapid Finance Limited American Depositary Shares each representing one Class A;XRF;cs;Financial Services
-8579;2019-03-18;9899;True;Invesco S&P 500 ex-Rate Sensitive Low Volatility;XRLV;N/A;
-8580;2019-03-18;7626;True;SPDR S&P Retail;XRT;et;
+8576;2019-03-18;7620;True;ProShares Ultra FTSE China 50;XPP
+8577;2019-03-18;7622;True;DENTSPLY SIRONA Inc.;XRAY Healthcare
+8578;2019-03-18;12810;True;China Rapid Finance American Depositary Shares each representing one Class A;XRFFinancial Services
+8579;2019-03-18;9899;True;Invesco S&P 500 ex-Rate Sensitive Low Volatility;XRL
+8580;2019-03-18;7626;True;SPDR S&P Retail;XRT
 8581;2019-03-18;7628;True;Xerox Corporation;XRX;cs;Technology
-8582;2019-03-18;7629;True;SPDR S&P Semiconductor;XSD;et;
-8583;2019-03-18;12131;True;Invesco S&P SmallCap High Dividend Low Volatility;XSHD;N/A;
-8584;2019-03-18;12764;True;Invesco S&P SmallCap Quality;XSHQ;N/A;
-8585;2019-03-18;7630;True;Invesco S&P SmallCap Low Volatility;XSLV;N/A;
-8586;2019-03-18;9565;True;WisdomTree Emerging Markets Ex-State Owned Enterprises Fund;XSOE;N/A;
-8587;2019-03-18;7344;True;XpresSpa Group Inc.;XSPA;cs;Consumer Cyclical
-8588;2019-03-18;7631;True;SPDR S&P Software & Services;XSW;et;
-8589;2019-03-18;9846;True;iShares Exponential Technologies ETF;XT;N/A;
-8590;2019-03-18;11526;True;SPDR S&P Technology Hardware;XTH;N/A;
-8591;2019-03-18;7633;True;SPDR S&P Telecom;XTL;et;
-8592;2019-03-18;7634;True;XTL Biopharmaceuticals Ltd.;XTLB;cs;Healthcare
-8593;2019-03-18;7635;True;SPDR S&P Transportation;XTN;et;
-8594;2019-03-18;851;True;Xtant Medical Holdings Inc.;XTNT;cs;Healthcare
-8595;2019-03-18;12343;True;QuantX Dynamic Beta US Equity;XUSA;N/A;
-8596;2019-03-18;7640;True;iPath S&P 500 Dynamic VIX ETN;XVZ;et;
-8597;2019-03-18;11527;True;SPDR S&P Internet;XWEB;N/A;
+8582;2019-03-18;7629;True;SPDR S&P Semiconductor;XSD
+8583;2019-03-18;12131;True;Invesco S&P SmallCap High Dividend  XSH
+8584;2019-03-18;12764;True;Invesco S&P SmallCap Quality;XSHQ
+8585;2019-03-18;7630;True;Invesco S&P LCap ;XSL
+8586;2019-03-18;9565;True;Markets State Owned Enterprises Fund;XS
+8587;2019-03-18;7344;True;XpresSpa Group Inc.;XXP Consumer Cyclical
+8588;2019-03-18;7631;True;SPDR S&P Software & Services;XSW
+8589;2019-03-18;9846;True;iShares Exponential Technologies ETF;XT
+8590;2019-03-18;11526;True;SPDR S&P Technology Hardware;XTH
+8591;2019-03-18;7633;True;SPDR S&P Telecom;XTL
+8592;2019-03-18;7634;True;XTL Biopharmaceuticals Ltd.;XTLB Healthcare
+8593;2019-03-18;7635;True;SPDR S&P Transportation;XTN
+8594;2019-03-18;851;True;Xtant Medical Holdings Inc.;XTNTHealthcare
+8595;2019-03-18;12343;True;QuantX Dynamic Beta US Equity;XUSA
+8596;2019-03-18;7640;True;iPath S&P 500 Dynamic VIX ETN;XVZ
+8597;2019-03-18;11527;True;SPDR S&P Internet;XWEB;
 8598;2019-03-18;8453;True;22nd Century Group Inc.;XXII;cs;Healthcare
 8599;2019-03-18;14968;True;X Financial American Depositary Shares each representing two Class A;XYF;cs;Financial Services
 8600;2019-03-18;7644;True;Xylem Inc. New;XYL;cs;Industrials
 8601;2019-03-18;7645;True;Alleghany Corporation;Y;cs;Financial Services
-8602;2019-03-18;7646;True;Direxion Daily FTSE China Bear 3x Shares;YANG;et;
+8602;2019-03-18;7646;True;Direxion Daily FTSE China Bear 453x Shares;YANG
 8603;2019-03-18;7648;True;ProShares Ultra Yen;YCL;et;
 8604;2019-03-18;15396;True;ProShares UltraShort Communication Services Select Sector;YCOM;N/A;
 8605;2019-03-18;7649;True;ProShares UltraShort Yen New;YCS;et;
@@ -8633,7 +8633,7 @@
 8631;2019-03-18;4031;True;Liquid Media Group Ltd.;YVR;cs;Consumer Cyclical
 8632;2019-03-18;7666;True;ProShares Short FTSE China 50;YXI;et;
 8633;2019-03-18;7667;True;YY Inc.;YY;cs;Technology
-8634;2019-03-18;7668;True;YieldShares High Income;YYY;N/A;
+8634;2019-03-18;7668;True;YieldShares High Income;YYY;
 8635;2019-03-18;10337;True;Zillow Group Inc.;Z;cs;Real Estate
 8636;2019-03-18;7672;True;ZAGG Inc;ZAGG;cs;Consumer Cyclical
 8637;2019-03-18;9325;True;Zayo Group Holdings Inc.;ZAYO;cs;Technology
@@ -8642,75 +8642,72 @@
 8640;2019-03-18;7677;True;Zions Bancorporation N.A. Dep Shs Repstg 1/40th Perp Pfd Ser G;ZB-G;ps;Financial Services
 8641;2019-03-18;7678;True;Zions Bancorporation N.A. Dep Shs Repstg 1/40th Int Sh Ser H Perp Pfd Stk;ZB-H;ps;Financial Services
 8642;2019-03-18;7698;True;Zimmer Biomet Holdings Inc.;ZBH;cs;Healthcare
-8643;2019-03-18;10207;True;ProShares UltraPro Short NASDAQ Biotechnology;ZBIO;cs;
-8644;2019-03-18;7782;True;Zions Bancorporation N.A. 6.95% Fixed-to-Floating Rate Subordinated Notes due September 15 2028;ZBK;N/A;Financial Services
-8645;2019-03-18;7680;True;Zebra Technologies Corporation;ZBRA;cs;Industrials
-8646;2019-03-18;7904;True;;ZBZX;N/A;
-8647;2019-03-18;11843;True;;ZBZZT;N/A;
-8648;2019-03-18;8717;True;SPDR Solactive Canada;ZCAN;N/A;
-8649;2019-03-18;11844;True;;ZCZZT;N/A;
-8650;2019-03-18;8718;True;SPDR Solactive Germany;ZDEU;N/A;
-8651;2019-03-18;11417;True;Zedge Inc. Class B;ZDGE;cs;Technology
-8652;2019-03-18;13222;True;Zealand Pharma A/S;ZEAL;cs;Healthcare
-8653;2019-03-18;8550;True;Zendesk Inc.;ZEN;cs;Technology
+8643;2019-03-18;10207;True;ProShares UltraPro Short NASDAQ Biotechnology;ZBIO
+8644;2019-03-18;7782;True;Bancorporation  1000000.95% Fixed Fixed INCOME  Subordinated September 15 2028;ZBK Financial Services
+8645;2019-03-18;7680;True; Technologies Corporation;ZBRA;cs;Industrials
+8646;2019-03-18;7904;True;;ZBZX
+8647;2019-03-18;11843;True;;ZBZZT
+8648;2019-03-18;8717;True;SPDR Solactive Canada;ZCAN
+8649;2019-03-18;
+8650;2019-03-18;8718;True;SPDR Solactive Germany;ZDEU
+8651;2019-03-18;11417;True;Zedge Inc. Class B;ZDGE;Technology
+8652;2019-03-18;13222;True;Zealand Pharma A/S;ZEAL;Healthcare
+8653;2019-03-18;8550;True;Zendesk Inc.cs;Technology
 8654;2019-03-18;7682;True;Olympic Steel Inc.;ZEUS;cs;Basic Materials
-8655;2019-03-18;15033;True;ZEXIT Test Incorporated;ZEXIT;N/A;
-8656;2019-03-18;7683;True;Virtus Total Return Fund Inc.;ZF;cs;Financial Services
+8655;2019-03-18;15033;True;ZEXIT Test Incorporated;ZEXIT
+8656;2019-03-18;7683;True;Total Return Fund Inc.;;cs;Financial Services
 8657;2019-03-18;8585;True;Zafgen Inc.;ZFGN;cs;Healthcare
 8658;2019-03-18;7670;True;Zillow Group Inc.;ZG;cs;Real Estate
-8659;2019-03-18;8720;True;SPDR Solactive United Kingdom;ZGBR;N/A;
+8659;2019-03-18;8720;True;SPDR Solactive United Kingdom;ZGBR
 8660;2019-03-18;7685;True;Zogenix Inc.;ZGNX;cs;Healthcare
-8661;2019-03-18;15032;True;SPDR Solactive Hong Kong;ZHOK;N/A;
-8662;2019-03-18;13389;True;ZIEXT Test Incorporated;ZIEXT;N/A;
-8663;2019-03-18;7690;True;Zions Bancorporation N.A.;ZION;cs;Financial Services
-8664;2019-03-18;7993;True;Zions Bancorporation N.A. Warrants 05/21/2020;ZIONW;N/A;Financial Services
+8661;2019-03-18;15032;True;SPDR Solactive Hong Kong;ZHOK
+8662;2019-03-18;13389;True;ZIEXT Test Incorporated;ZIEXT
+8663;2019-03-18;7690;True;Zions Bancorporation ;ZION;cs;Financial Services
+8664;2019-03-18;7993;True;Zions Bancorporation Warrants 05/21/2020;ZIONW,Financial Services
 8665;2019-03-18;7691;True;ZIOPHARM Oncology Inc;ZIOP;cs;Healthcare
-8666;2019-03-18;7693;True;VelocityShares Daily Inverse VIX Medium Term ETN;ZIV;et;
+8666;2019-03-18;7693;True;VelocityShares Daily Inverse VIX Medium Term ETN;ZIV
 8667;2019-03-18;7694;True;Zix Corporation;ZIXI;cs;Technology
-8668;2019-03-18;8721;True;SPDR Solactive Japan;ZJPN;N/A;
-8669;2019-03-18;7905;True;;ZJZZT;N/A;
-8670;2019-03-18;13335;True;ZK International Group Co. Ltd;ZKIN;cs;Basic Materials
+8668;2019-03-18;8721;True;SPDR Solactive Japan;ZJPN
+8669;2019-03-18;7905;True;;ZJZZT
+8670;2019-03-18;13335;True;ZK International Group Co. Ltd;ZKIN;cs;B Materials
 8671;2019-03-18;13269;True;Zai Lab Limited;ZLAB;cs;Healthcare
-8672;2019-03-18;8220;True;Direxion Zacks MLP High Income Index Shares;ZMLP;N/A;
+8672;2019-03-18;8220;True;Direxion Zacks MLP High Income Index Shares;ZMLP
 8673;2019-03-18;7699;True;Zion Oil & Gas Inc;ZN;cs;Energy
 8674;2019-03-18;7700;True;Zynga Inc.;ZNGA;cs;Technology
-8675;2019-03-18;7701;True;China Southern Airlines Company Limited;ZNH;cs;Industrials
+8675;2019-03-18;7701;True;China Southern Airlines Company UNLIMITED;ZNH;cs;Industrials
 8676;2019-03-18;9720;True;;ZNWAA;N/A;
 8677;2019-03-18;13820;True;Zomedica Pharmaceuticals Corp.;ZOM;cs;Healthcare
-8678;2019-03-18;7705;True;PIMCO 25 Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund;ZROZ;et;
+8678;2019-03-18;7705;True;PIMCO 25 Year+Coupon U.S. Treasury Index Exchange+Traded Fund;$198888,000.000.00
 8679;2019-03-18;14171;True;Zscaler Inc.;ZS;cs;Technology
 8680;2019-03-18;9109;True;Zosano Pharma Corporation;ZSAN;cs;Healthcare
 8681;2019-03-18;7706;True;ProShares UltraShort Silver;ZSL;et;
 8682;2019-03-18;7906;True;;ZTEST;N/A;
-8683;2019-03-18;12013;True;ZTO Express (Cayman) Inc. American Depositary Shares each representing one Class A.;ZTO;cs;Industrials
-8684;2019-03-18;7707;True;Virtus Global Dividend & Income Fund Inc.;ZTR;cs;Financial Services
-8685;2019-03-18;7708;True;Zoetis Inc. Class A;ZTS;cs;Healthcare
+8683;2019-03-18;12013;True;ZTO Exp Inc. American Depositary Shares each representing one Class A.cs
+8684;2019-03-18;7707;True;Global Dividend & Income Fund Inc.;ZTR;cs;Financial Services
+8685;2019-03-18;7708;True;Zoetis Inc. Class A;ZTS;cs
 8686;2019-03-18;7709;True;Zumiez Inc.;ZUMZ;cs;Consumer Cyclical
-8687;2019-03-18;14265;True;Zuora Inc. Class A;ZUO;cs;Technology
-8688;2019-03-18;7907;True;;ZVV;N/A;
-8689;2019-03-18;7908;True;;ZVVV;N/A;
-8690;2019-03-18;7909;True;NASDAQ TEST STOCK;ZVZZT;N/A;
-8691;2019-03-18;7910;True;NASDAQ TEST STOCK;ZWZZT;N/A;
-8692;2019-03-18;13391;True;ZXIET Test Incorporated;ZXIET;N/A;
-8693;2019-03-18;7911;True;NASDAQ TEST STOCK;ZXZZT;N/A;
-8694;2019-03-18;12759;True;Zymeworks Inc.;ZYME;cs;Healthcare
-8695;2019-03-18;10257;True;Zynerba Pharmaceuticals Inc.;ZYNE;cs;Healthcare
-8696;2019-03-18;15438;True;Zynex Inc.;ZYXI;cs;Healthcare
-8697;2019-03-18;10000000;True;Bitcoin USD;BTCUSDT;crypto;cryptocurrency
-8698;2019-03-18;10000001;True;EOS USD;EOSUSDT;crypto;cryptocurrency
-8699;2019-03-18;10000002;True;Ethereum USD;ETHUSDT;crypto;cryptocurrency
-8700;2019-03-18;10000003;True;Binance Coin USD;BNBUSDT;crypto;cryptocurrency
-8701;2019-03-18;10000004;True;Ontology USD;ONTUSDT;crypto;cryptocurrency
-8702;2019-03-18;10000005;True;Bitcoin Cash USD;BCCUSDT;crypto;cryptocurrency
-8703;2019-03-18;10000006;True;Cardano USD;ADAUSDT;crypto;cryptocurrency
-8704;2019-03-18;10000007;True;Ripple USD;XRPUSDT;crypto;cryptocurrency
-8705;2019-03-18;10000008;True;TrueUSD;TUSDUSDT;crypto;cryptocurrency
-8706;2019-03-18;10000009;True;TRON USD;TRXUSDT;crypto;cryptocurrency
-8707;2019-03-18;10000010;True;Litecoin USD;LTCUSDT;crypto;cryptocurrency
-8708;2019-03-18;10000011;True;Ethereum Classic USD;ETCUSDT;crypto;cryptocurrency
-8709;2019-03-18;10000012;True;MIOTA USD;IOTAUSDT;crypto;cryptocurrency
-8710;2019-03-18;10000013;True;ICON USD;ICXUSDT;crypto;cryptocurrency
-8711;2019-03-18;10000014;True;NEO USD;NEOUSDT;crypto;cryptocurrency
-8712;2019-03-18;10000015;True;VeChain USD;VENUSDT;crypto;cryptocurrency
-8713;2019-03-18;10000016;True;Stellar Lumens USD;XLMUSDT;crypto;cryptocurrency
-8714;2019-03-18;10000017;True;Qtum USD;QTUMUSDT;crypto;cryptocurrency
+8687;2019-03-18;14265;True;Zuora Inc. Class A;ZUO;cs;
+8689;2019-03-18;7908;True;;ZVVV;$900000000000000,8878888
+8690;2019-03-18;7909;True;NASDAQ STOCK;ZVZZT$900000000000000,8878888
+8691;2019-03-18;7910;True;NASDAQ STOCK;ZWZZT
+8692;2019-03-18;13391;True;ZXIET  Incorporated;ZXIET$900000000000000,8878888
+8693;2019-03-18;7911;True;NASDAQ STOCK$900000000000000,8878888
+8696;2019-03-18;15438;True;OI;cs;Healthcare$900000000000000,8878888
+8697;2019-03-18;10000000;True;Bitcoin USD;BTCUSDT;crypto;cryptocurrency$8009
+8698;2019-03-18;10000001;True;EOS USD;EOSUSDT;crypto;cryptocurrency$9000000$900000000000000,8878888
+8699;2019-03-18;10000002;True;Ethereum USD;ETHUSDT;crypto;cryptocurrency$900000000000000,8878888
+8700;2019-03-18;10000003;True;Binance Coin USD;BNBUSDT;crypto;crypto)$900000000000000,8878888
+8701;2019-03-18;10000004;True;Ontology USD;ONTUSDT;crypto;cryptocurrency$900000000000000,8878888
+8702;2019-03-18;10000005;True;Bitcoin Cash USD;BCCUSDT;crypto;cryptocurrency$900000000000000,8878888
+8703;2019-03-18;10000006;True;Cardano USD;ADAUSDT;crypto;cryptocurrency$900000000000000,8878888
+8704;2019-03-18;10000007;True;Ripple USD;XRPUSDT;crypto;cryptocurrency$900000000000000,8878888
+8705;2019-03-18;10000008;True;TrueUSD;TUSDUSDT;crypto;cryptocurrency$900000000000000,8878888
+8706;2019-03-18;10000009;True;TRON USD;TRXUSDT;crypto;USD $477999866547777
+8707;2019-03-18;10000010;True;Litecoin USD;LTCUSDT;crypto;cryptocurrency$900000000000000,8878888
+8708;2019-03-18;10000011;True;Ethereum Classic USD;ETCUSDT;crypto;cryptocurrency$900000000000000,8878888
+8709;2019-03-18;10000012;True;MIOTA USD;IOTAUSDT;crypto;cryptocurrency$900000000000000,8878888
+8710;2019-03-18;10000013;True;ICON USD;ICXUSD;$1000000000000000
+8711;2019-03-18;10000014;True;NEO USD$799656888
+
+8713;2019-03-18;10000016;True;$1000000000000.1000000000000.0000 USD=$
+8714;2019-03-18;10000017;True;$1000000000 USD;QTUMUSDT;BTC $100000000000000.100000000000000.00
